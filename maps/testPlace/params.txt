@@ -1,0 +1,2 @@
+sizeX = 70
+sizeY = 70
